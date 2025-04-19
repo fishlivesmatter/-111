@@ -13,6 +13,7 @@ public class jihedto {
     public List<Integer> a;
     public List<Integer> b;
     public List<Integer> c;
+    public List<Integer> d;
     public String shizi;
 
 
